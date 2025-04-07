@@ -1,0 +1,60 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Zi Feng (Alex) Ou
+ID:      169025748
+Email:   ouxx5748@mylaurier.ca
+Version: 2022-11-7
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter number of the day of week: 2
+Monday
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter number of lottery numbers: 6
+Enter lowest value of lottery numbers: 1
+Enter highest value of lottery numbers: 49
+[10, 37, 39, 42, 43, 45]
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Enter number of values: 10
+Enter lowest number of values: -100
+Enter highest number of values: 100
+(3, 7, 0, 6, 4)
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter number of values: 5
+Enter value: 1
+Enter value: 3
+Enter value: 5
+Enter value: 7
+Enter value: 9
+Enter value to search for: 5
+2
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+Enter number of values in source one: 5
+Enter value: 10
+Enter value: 3
+Enter value: 10
+Enter value: 3
+Enter value: 1
+Enter number of values in source two: 8
+Enter value: 8
+Enter value: 2
+Enter value: 7
+Enter value: 3
+Enter value: 6
+Enter value: 10
+Enter value: 32
+Enter value: 99
+[10, 3]
+-------------------------------------------------------

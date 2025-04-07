@@ -1,0 +1,66 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Zi Feng (Alex) Ou
+ID:      169025748
+Email:   ouxx5748@mylaurier.ca
+Version: 2022-10-31
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter target population: 10000
+Enter current population: 1000
+Enter rate of population increase: 10
+25
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+First positive value: 4.2
+Next positive value: 3.5
+Next positive value: 0
+Next positive value: 6.1
+Next positive value: -1
+(0.00, 6.10, 13.80, 3.45)
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+For Day 1
+How much was breakfast? 7.95
+How much was lunch? 15.32
+How much was supper? 42.56
+Your total for the day was $65.83
+Were you away another day (Y/N)? Y
+For Day 2
+How much was breakfast? 5.55
+How much was lunch? 12.39
+How much was supper? 36.23
+Your total for the day was $54.17
+Were you away another day (Y/N)? N
+(13.50, 27.71, 78.79, 120.00)
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter available funds: 200
+Enter an expense (0 to quit): $150.00
+Enter another expense (0 to quit): $23.00
+Enter another expense (0 to quit): $12.00
+Enter another expense (0 to quit): $15.00
+Enter another expense (0 to quit): $37.50
+Enter another expense (0 to quit): $65.00
+Enter another expense (0 to quit): $0
+(302.50, -102.50, Deficit)
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter lowest number: 0
+Enter highest number: 100
+Enter a value between 0 and high 100: 110
+Value entered is too high
+Enter a value between 0 and high 100: -10
+Value entered is too low
+Enter a value between 0 and high 100: 75
+75
+-------------------------------------------------------

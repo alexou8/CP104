@@ -1,0 +1,80 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Zi Feng (Alex) Ou
+ID:      169025748
+Email:   ouxx5748@mylaurier.ca
+Version: 2022-10-24
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter number: 3
+1.8333333333333333
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter width: 8
+Enter character: #
+#
+##
+# #
+#  #
+#   #
+#    #
+#     #
+########
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter number of verses: 5
+5 bottles of beer on the wall, 5 bottles of beer.
+Take one down, pass it around, 4 bottles of beer on the wall.
+ 
+4 bottles of beer on the wall, 4 bottles of beer.
+Take one down, pass it around, 3 bottles of beer on the wall.
+ 
+3 bottles of beer on the wall, 3 bottles of beer.
+Take one down, pass it around, 2 bottles of beer on the wall.
+ 
+2 bottles of beer on the wall, 2 bottles of beer.
+Take one down, pass it around, 1 bottle of beer on the wall.
+
+1 bottle of beer on the wall, 1 bottle of beer.
+Take one down, pass it around, no more bottles of beer on the wall!
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+Enter number of IAs: 2
+Week 1
+	Marking hours for IA 1: 1
+	Marking hours for IA 2: 1
+Week 2
+	Marking hours for IA 1: 1
+	Marking hours for IA 2: 1
+Week 3
+	Marking hours for IA 1: 1
+	Marking hours for IA 2: 1
+Week 4
+	Marking hours for IA 1: 1
+	Marking hours for IA 2: 1
+Week 5
+	Marking hours for IA 1: 1
+	Marking hours for IA 2: 1
+Week 6
+	Marking hours for IA 1: 1
+	Marking hours for IA 2: 1
+12.00
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+Enter number of values: 5
+First values: 1
+Next value: 2
+Next value: -3.4
+Next value: 4
+Next value: 5.3
+(-3.40, 5.30, 8.90, 1.78)
+-------------------------------------------------------
