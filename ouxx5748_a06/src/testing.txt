@@ -1,0 +1,67 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Zi Feng (Alex) Ou
+ID:      169025748
+Email:   ouxx5748@mylaurier.ca
+Version: 2022-11-08
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the winning team: blue
+Enter the winning team: blue
+Enter the winning team: grey
+Enter the winning team: blue
+Enter the winning team: grey
+Enter the winning team: 
+3, 2
+
+Enter the winning team: blue
+Enter the winning team: blue
+Enter the winning team: blue
+Enter the winning team: 
+3, 0
+
+Enter the winning team: 
+0, 0
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a number: 9
+False
+
+Enter a number: 131
+True
+
+Enter a number: 999
+False
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a number: 0
+1
+
+Enter a number: 74
+2
+
+Enter a number: -999
+3
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a number: 6
+6
+
+Enter a number: 7
+1
+
+Enter a number: 24
+36
+-------------------------------------------------------

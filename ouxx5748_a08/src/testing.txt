@@ -1,0 +1,69 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Zi Feng (Alex) Ou
+ID:      169025748
+Email:   ouxx5748@mylaurier.ca
+Version: 2022-11-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter phrase: StopAndSmellTheRoses.
+Stop and smell the roses.
+
+Enter phrase: ILoveToEatPizza.
+I love to eat pizza.
+
+Enter phrase: PizzaRocks!
+Pizza rocks!
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter word to pluralize: toy
+toys
+
+Enter word to pluralize: city
+cities
+
+Enter word to pluralize: church
+churches
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter word: running
+Enter word: jumping
+ing
+
+Enter word: dirty
+Enter word: hearty
+rty
+
+Enter word: people
+Enter word: maple
+ple
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter ISBN: 978-3-12148410--0
+False
+
+Enter ISBN: 978-3-16-148410-0
+True
+
+Enter ISBN: 978-3-16-148410-02
+False
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+['word', 'chain']
+False
+
+['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+True
+
+['camel', 'leopard', 'cat', 'giraffe', 'elephant']
+False
+-------------------------------------------------------

@@ -1,0 +1,75 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Zi Feng (Alex) Ou
+ID:      169025748
+Email:   ouxx5748@mylaurier.ca
+Version: 2022-10-24
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter number of the week: 5
+Friday
+
+Enter number of the week: 7
+Sunday
+
+Enter number of the week: 99
+Error
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter level of AQI: 256
+Very Unhealthy
+
+Enter level of AQI: 155
+Unhealthy
+
+Enter level of AQI: -5
+Error
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a number: -8
+Enter a number: 12
+Enter a number: 20
+240
+
+Enter a number: -5
+Enter a number: 0
+Enter a number: 9
+0
+
+Enter a number: 1
+Enter a number: 0
+Enter a number: 1
+1
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter primary colour: red
+Enter primary colour: green
+yellow
+
+Enter primary colour: green
+Enter primary colour: red
+yellow
+
+Enter primary colour: blue
+Enter primary colour: kipney
+Error
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a number: 7
+Ha
+
+Enter a number: 21
+Yee Ha
+
+Enter a number: -44
+Nada
+-------------------------------------------------------
