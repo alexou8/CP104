@@ -13,3 +13,7 @@ This repo contains my programming labs, assignments, and practice work completed
 - Lists and basic data processing
 - Simple debugging and testing habits
 - Introductory file I/O (if applicable)
+
+## Academic Integrity
+
+This repository is shared for learning and portfolio purposes only. Please do not submit this work as your own.
